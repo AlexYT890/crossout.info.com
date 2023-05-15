@@ -1,0 +1,97 @@
+header  {
+    position: relative;
+}
+
+.img {
+    width: 1860px;
+    height: 1020px;
+}
+
+header h1  {
+    position: absolute;
+    top: 300px;
+    color: white;
+    font-size: 90px;
+    left: 740px;
+    border: 20px double white;
+    padding: 10px;
+}
+
+header p  {
+    position: absolute;
+    color: white;
+    letter-spacing: 8px;
+    top: 520px;
+    left: 620px;
+    font-size: 25px;
+}
+
+main h1  {
+    font-size: 50px;
+}
+
+main p  {
+    font-size: 30px;
+}
+
+article {
+    width: 500px;
+    border: 10px solid #FF5300;
+    border-radius: 45px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.first  {
+    text-align: center;
+}
+
+.WASD  {
+    width: 460px;
+    height: 249px;
+}
+
+.w  {
+    float: left;
+    margin-left: 150px;
+}
+
+.e  {
+    float: right;
+    margin-right: 150px;
+}
+
+.h1V  {
+    margin-top: 570px;
+    text-align: center;
+}
+
+iframe  {
+    margin: 60px 60px 70px 0px;
+}
+
+a  {
+    font-size: 40px;
+    border: 3px solid yellow;
+    border-radius: 30px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    margin-right: 30px;
+}
+
+a:hover  {
+    border: 3px solid black;
+    color: yellow;
+    background-color: black;
+    transition: all 0.25s linear;
+}
+
+footer  {
+    background-color: navy;
+    padding: 100px;
+    margin-top: 30px;
+
+}
